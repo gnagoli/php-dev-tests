@@ -1,0 +1,17 @@
+{
+    "name": "laravel-paydunya/paydunya",
+    "description": "Laravel package for paydunya",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Luckmann",
+            "email": "lkgnagoli@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Paydunya\\Client\\Paydunya\\": "src/"
+        }
+    },
+    "require": {}
+}
